@@ -1,0 +1,41 @@
+@media (min-width: 320px) {
+    body {
+        background: yellow;
+        color: red;
+        font-size: 12px;
+    }
+    img {
+        width: 80%;
+    }
+    .container {
+        width: 80%;
+    }
+}
+
+@media (min-width: 768px) {
+    body {
+        background: pink;
+        color: white;
+        font-size: 16px;
+    }
+    img {
+        width: 80%;
+    }
+    .container {
+        width: 80%;
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        background:grey;
+        color: black;
+        font-size: 18px;
+    }
+    img {
+        width: 100%;
+    }
+    .container {
+        width: 100%;
+    }
+}
